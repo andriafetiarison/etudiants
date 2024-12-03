@@ -1,0 +1,6 @@
+dao\ConnexionBDD.class
+dao\GenericDao.class
+dao\EtudiantDaoImpl.class
+modele\Etudiant.class
+controller\EtudiantController.class
+vue\EtudiantVue.class
